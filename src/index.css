@@ -15,7 +15,10 @@ body {
   min-height: 10vh;
   background-color: rgb(14, 145, 64);
   color: #fff;
-  padding: 0.5rem 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .navbar .container {
   display: flex;
